@@ -1,4 +1,4 @@
-This archive follows the rule of [Oxford University Press's Author self-archiving policy](https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions/self_archiving_policy_p).
+This archive follows the rule of [Oxford University Press' Author self-archiving policy](https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions/self_archiving_policy_p).
 
 # Role of geometric barriers in irregular-rupture evolution during the 2008 Wenchuan earthquake
 
