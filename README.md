@@ -14,8 +14,6 @@ Abstract
 
 - [Article](./doc/#) (PDF: X KB)
 
-  This is a pre-copyedited, author-produced PDF of an article accepted for publication in [insert journal title] following peer review. The version of record [insert complete citation information here] is available online at: xxxxxxx [insert URL that the author will receive upon publication here].
-
 - [Supporting information](./doc/#) (PDF: X MB)
 
 - [SAC files](./data)
