@@ -18,7 +18,7 @@ Geometric discontinuities within fault systems known as geometric barriers contr
 
 - [Supporting information](./doc/supp.pdf) (PDF: 5.3 MB)
 
-- [SAC files](./data)
+- [SAC files](./data/SACfiles)
 
 - [Data for figures](./data)
 
