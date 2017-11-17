@@ -23,3 +23,17 @@ Geometric discontinuities within fault systems known as geometric barriers contr
 - [Data for figures](./data)
 
 - [Jupyte-notebook](./fig.ipynb)
+
+- [Figures](./fig)
+
+Fig. 1
+<img src="./fig/fig1R1.png" alt="Fig. 1" width="50%" />
+
+Fig. 2
+<img src="./fig/HBP_0-180R1.png" alt="Fig. 2" width="50%" />
+
+Fig. 3
+<img src="./fig/timeevo_0-180R1.png" alt="Fig. 3" width="50%" />
+
+Fig. 4
+<img src="./fig/StaticRepresentative_0-180R1.png" alt="Fig. 4" width="25%" />
