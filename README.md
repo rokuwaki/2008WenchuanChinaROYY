@@ -6,7 +6,7 @@ This archive follows the rule of [Oxford University Press' Author self-archiving
 
 - Corresponding author: Ryo Okuwaki ([rokuwaki@geol.tsukuba.ac.jp](mailto:rokuwaki@geol.tsukuba.ac.jp))
 
-- Accepted 2017 November 16. Revision submitted 2017 October 16; Initial submission 2017 August 15
+- Accepted 2017-11-16. Revision submitted 2017-10-16. Initial submission 2017-08-15.
 
 # Abstract
 
@@ -14,11 +14,11 @@ Geometric discontinuities within fault systems known as geometric barriers contr
 
 # Contents
 
-- [Article](./doc/s1-ln27996830-1268598335-1939656818Hwf-5849533IdV-179189809527996830PDF_HI0001.pdf) (PDF: 4.5 MB)
+- [Article](./doc/revised-archive.pdf) (PDF: 4.5 MB)
 
   This is a pre-copyedited, author-produced PDF of an article accepted for publication in *Geophysical Journal International* following peer review. The version of record "Role of geometric barriers in irregular-rupture evolution during the 2008 Wenchuan earthquake" by Ryo Okuwaki and Yuji Yagi is available online at: http://dx.doi.org/10.1093/gji/ggx502.
 
-- [Supporting information](./doc/supp.pdf) (PDF: 5.3 MB)
+- [Supporting information](./doc/supp-archive.pdf) (PDF: 5.3 MB)
 
 - [SAC files](./data/SACfiles)
 
