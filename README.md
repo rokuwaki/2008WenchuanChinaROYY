@@ -6,6 +6,8 @@ This archive follows the rule of [Oxford University Press' Author self-archiving
 
 - Corresponding author: Ryo Okuwaki ([rokuwaki@geol.tsukuba.ac.jp](mailto:rokuwaki@geol.tsukuba.ac.jp))
 
+- Accepted 2017 November 16. Received 2017 October 16; in original form 2017 August 15
+
 # Abstract
 
 Geometric discontinuities within fault systems known as geometric barriers contribute to irregular rupture evolutions during earthquakes. We applied a hybrid backprojection method to high-frequency teleseismic P -waveforms to investigate the role of geometric barriers in the rupture propagation during the Mw 7.9 2008 Wenchuan, China, earthquake. We found that sources of high-frequency waves were concentrated near the intersections of a northwest-trending cross-cutting fault with the dominant northeast-trending fault system and in areas around steps between fault segments of the dominant fault system. We recognized these areas as geometric barriers to rupture propagation. Our analysis of the high-frequency waves associated with the geometric discontinuities within the fault system showed that geometric barriers can decelerate or stop rupture propagation, but can also accelerate rupture when the rupture front crosses a geometric barrier and instigates rupture in an adjacent fault segment. Our result suggests that geometric discontinuities within fault systems can cause earthquake rupture propagation that is more complex than that of faults of simpler geometry associated with subduction zone megathrust earthquakes.
@@ -22,7 +24,7 @@ Geometric discontinuities within fault systems known as geometric barriers contr
 
 - [Data for figures](./data)
 
-- [Jupyte-notebook](./fig.ipynb)
+- [Jupyter-notebook](./fig.ipynb)
 
 - [Figures](./fig)
 
