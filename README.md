@@ -6,7 +6,7 @@ This archive follows the rule of [Oxford University Press' Author self-archiving
 
 - Corresponding author: Ryo Okuwaki ([rokuwaki@geol.tsukuba.ac.jp](mailto:rokuwaki@geol.tsukuba.ac.jp))
 
-- Accepted 2017 November 16. Received 2017 October 16; in original form 2017 August 15
+- Accepted 2017 November 16. Revision submitted 2017 October 16; Initial submission 2017 August 15
 
 # Abstract
 
