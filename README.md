@@ -16,7 +16,7 @@ Geometric discontinuities within fault systems known as geometric barriers contr
 
 - [Accepted article](./doc/revised-archive.pdf) (PDF: 3.88 MB)
 
-  This is a pre-copyedited, author-produced PDF of an article accepted for publication in *Geophysical Journal International* following peer review. The version of record "Role of geometric barriers in irregular-rupture evolution during the 2008 Wenchuan earthquake" by Ryo Okuwaki and Yuji Yagi is available online at: http://dx.doi.org/10.1093/gji/ggx502.
+  This is a pre-copyedited, author-produced PDF of an article accepted for publication in *Geophysical Journal International* following peer review. The version of record "R. Okuwaki, Y. Yagi; Role of geometric barriers in irregular-rupture evolution during the 2008 Wenchuan earthquake, Geophysical Journal International, , ggx502, https://doi.org/10.1093/gji/ggx502" is available online at: http://dx.doi.org/10.1093/gji/ggx502.
 
 - [Supporting information](./doc/supp-archive.pdf) (PDF: 5.06 MB)
 
